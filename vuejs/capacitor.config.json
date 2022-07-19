@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "vuejs",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
